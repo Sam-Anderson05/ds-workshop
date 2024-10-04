@@ -1,0 +1,3 @@
+C:/Users/Anders9/GitHub/ds-workshop/cmake-build-debug/CMakeFiles/ds_workshop.dir
+C:/Users/Anders9/GitHub/ds-workshop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anders9/GitHub/ds-workshop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
